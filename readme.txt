@@ -10,4 +10,5 @@ Source: https://www.browserstack.com/guide/get-current-url-in-selenium-and-pytho
 You know very well that when you click on a link, you will be redirected to another page and that page has a url.
 If clicking on that link does not fetch the required url, then something is wrong with the configuration.
 You can use the Selenium webdriver "current_url" attribute which is a feature that fetches the current url of a web page.
+
 When you click on a link, you will be redirected to the url of a page from that link.
